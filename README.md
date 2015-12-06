@@ -8,3 +8,10 @@ Building a DYI laser scanner
 [Arduino 3D scanner DIY - Customized FabScan Project - Ardumotive Arduino Greek Workshop](http://www.ardumotive.com/arduino-3d-scanner.html)
 
 [Types of Steppers | All About Stepper Motors | Adafruit Learning System](https://learn.adafruit.com/all-about-stepper-motors/types-of-steppers)
+
+[FabScan100 Github Repo](https://github.com/francisengelmann/FabScan100/blob/master/README.md)
+
+[FabScan Pi](http://hci.rwth-aachen.de/fabscanpi_software)
+
+
+
